@@ -33,7 +33,6 @@ I thrive on solving complex backend challenges—whether it's building RESTful A
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqdasikrambrw@gmail.com)  
 
 ---
-## 🐍 A Snake Eating My Contributions Graph
-![Snake animation](https://github.com/aqdas1234/aqdas1234/blob/output/github-contribution-grid-snake.svg)
+
 
 ⭐ **Check out my projects and feel free to collaborate!**  
