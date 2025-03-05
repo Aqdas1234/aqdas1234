@@ -25,7 +25,7 @@ I thrive on solving complex backend challenges—whether it's building RESTful A
 
 ---
 ### 🐍 A Snake Eating My Contributions Graph
-![Snake animation](https://github.com/aqdas1234/aqdas1234/blob/output/snake.svg)
+![Snake animation](https://github.com/aqdas1234/aqdas1234/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🔗 Connect with Me  
