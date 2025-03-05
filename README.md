@@ -24,6 +24,9 @@ I thrive on solving complex backend challenges—whether it's building RESTful A
 - **Other:** OpenCV (Image Processing), Git, Docker  
 
 ---
+### 🐍 A Snake Eating My Contributions Graph
+![Snake animation](https://github.com/aqdas1234/aqdas1234/blob/output/snake.svg)
+
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aqdas-ikram)  
