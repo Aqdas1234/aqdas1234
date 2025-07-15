@@ -24,7 +24,8 @@ I thrive on solving complex backend challenges—whether it's building RESTful A
 - **Other:** OpenCV (Image Processing), Git, Docker  
 
 ---
-
+## 📈 GitHub Stats
+![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqdas1234&show_icons=true&theme=radical)
 
 
 ## 🔗 Connect with Me  
