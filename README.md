@@ -34,6 +34,9 @@ I thrive on solving complex backend challenges—whether it's building RESTful A
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqdasikrambrw@gmail.com)  
 
 ---
+## 🐍 GitHub Contribution Snake Game
+
+![github-contribution-grid-snake](https://github-contribution-grid-snake.svg.vercel.app/api?username=aqdas1234)
 
 
 ⭐ **Check out my projects and feel free to collaborate!**  
