@@ -37,7 +37,10 @@ I thrive on solving complex backend challenges—whether it's building RESTful A
 ---
 ## 🐍 GitHub Contribution Snake Game
 
-![github-contribution-grid-snake](https://github-contribution-grid-snake.svg.vercel.app/api?username=aqdas1234)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqdas1234/aqdas1234/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqdas1234/aqdas1234/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aqdas1234/aqdas1234/output/github-snake.svg" />
+</picture>
 
 ⭐ **Check out my projects and feel free to collaborate!**  
