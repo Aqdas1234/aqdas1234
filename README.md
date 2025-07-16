@@ -26,7 +26,7 @@ I thrive on solving complex backend challenges—whether it's building RESTful A
 ---
 ## 📈 GitHub Stats
 ![Aqdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqdas1234&show_icons=true&theme=radical)
-
+<a href="https://github.com/aqdas1234" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqdas1234&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aqdas-ikram)  
